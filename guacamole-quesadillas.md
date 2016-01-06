@@ -1,5 +1,7 @@
 version: v0.0.0
 
+![](http://fitmencook.com/wp-content/uploads/2015/09/IMG_5341-3-850x630.jpg)
+
 # Quick & Easy Quacamole Quesadillas
 
 Note: this recipe belongs to Kevin Curry of fitmencook.com
